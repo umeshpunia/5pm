@@ -1,0 +1,22 @@
+HTML ->
+    Hyper Text Markup Lang.
+    It is used to create structure of web pages
+    It is not a case sensitive Lang
+    It has no errors
+    It is exectued line by line
+    Current V5
+    extension is .html
+
+    Comments ->
+        To Describe Code And It Never Execute
+
+
+        <!--
+            fkjsdfkjsdkjf
+
+        -->
+
+    
+
+
+    div,headings,paragraphs,a,img,list,form,span,label
